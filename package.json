@@ -1,0 +1,22 @@
+{
+  "name": "dependency-check-test",
+  "version": "1.0.0",
+  "description": "Test project to determine validity of Dependency Check results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcL/dependency-check-test.git"
+  },
+  "author": "Marc Littlemore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcL/dependency-check-test/issues"
+  },
+  "homepage": "https://github.com/MarcL/dependency-check-test#readme",
+  "dependencies": {
+    "date-now": "~1.0.1"
+  }
+}
